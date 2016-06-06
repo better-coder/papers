@@ -8,3 +8,4 @@ Refer to: https://github.com/papers-we-love/papers-we-love
 - [分布式系统领域有哪些经典论文？](https://www.zhihu.com/question/30026369)
 - [the morning paper](https://blog.acolyer.org/)
 - [我们读过的Erlang论文](http://www.cnblogs.com/me-sa/p/best_thing_i_met.html)
+- [Golang Research Papers](https://github.com/golang/go/wiki/ResearchPapers)
