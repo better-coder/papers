@@ -9,3 +9,4 @@ Refer to: https://github.com/papers-we-love/papers-we-love
 - [the morning paper](https://blog.acolyer.org/)
 - [我们读过的Erlang论文](http://www.cnblogs.com/me-sa/p/best_thing_i_met.html)
 - [Golang Research Papers](https://github.com/golang/go/wiki/ResearchPapers)
+- [awesome-distributed-systems](https://github.com/kevinxhuang/awesome-distributed-systems)
